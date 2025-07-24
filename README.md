@@ -1,7 +1,7 @@
 
 # 🔍 Subnet Calculator
 
-A simple Python-based **subnet calculat** that computes subnet details for a given IP address and subnet mask (CIDR or dotted decimal). Perfect for network administrators, students, or anyone learning about IP networking!
+A simple Python-based **subnet calculato** that computes subnet details for a given IP address and subnet mask (CIDR or dotted decimal). Perfect for network administrators, students, or anyone learning about IP networking!
 
 ---
 
